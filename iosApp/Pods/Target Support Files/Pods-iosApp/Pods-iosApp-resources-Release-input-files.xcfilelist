@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-iosApp/Pods-iosApp-resources.sh
+${PODS_ROOT}/../../shared/src/commonMain/resources/belgium.jpeg
+${PODS_ROOT}/../../shared/src/commonMain/resources/berlin.jpeg
+${PODS_ROOT}/../../shared/src/commonMain/resources/compose-multiplatform.xml
+${PODS_ROOT}/../../shared/src/commonMain/resources/dubai.jpeg
+${PODS_ROOT}/../../shared/src/commonMain/resources/french.jpeg
+${PODS_ROOT}/../../shared/src/commonMain/resources/london.jpg
+${PODS_ROOT}/../../shared/src/commonMain/resources/moroco.jpeg
+${PODS_ROOT}/../../shared/src/commonMain/resources/tokyo.webp
